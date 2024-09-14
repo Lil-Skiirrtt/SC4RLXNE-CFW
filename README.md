@@ -12,6 +12,8 @@
   * Removed Useless XMB Icons
   * Updating Retro EMU (not tested yet)
   * Updated VSH SPRX
+  ### BETA 2
+  ***SOON***
 
 #### Credits
 * CODENAME: SC4RLXNE TEAM (You already know)
