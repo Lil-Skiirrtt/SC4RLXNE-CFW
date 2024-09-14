@@ -1,5 +1,5 @@
 # SC4RLXNE-CFW
-### BAsed on Rebug 4.84.2 D-REX
+### Based on Rebug 4.84.2 D-REX
 ## Whats New ?
   ### BETA 1
   * Cobra updated from 8.1 to 8.5
