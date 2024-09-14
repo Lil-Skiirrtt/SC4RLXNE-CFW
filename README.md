@@ -13,7 +13,7 @@
   * Updating Retro EMU (not tested yet)
   * Updated VSH SPRX
 
-### Credits
+#### Credits
 * CODENAME: SC4RLXNE TEAM (You already know)
 * CODENAME REBUG TEAM (Base)
 * Devil303
