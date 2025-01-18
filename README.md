@@ -1,9 +1,13 @@
 # SC4RLXNE-CFW
 ### Based on Rebug 4.84.2 D-REX
 ## Whats New ?
-  ### BETA 2
-  ***SOON***
-  
+  ### V1
+  **FIXES:**
+  * imagefont.bin was broken
+  **UPDATES:**
+    * Xaï Plugin Updated
+    **NOTE**
+      * Sorry for being in late
   ### BETA 1
   * Cobra updated from 8.1 to 8.5
   * Custom XMB lines
@@ -13,7 +17,7 @@
   * Voice chat background set to dark mode
   * Purple XMB
   * Removed Useless XMB Icons
-  * Custom XMB_plugin.SPRX
+  * Custom XMB_plugin.sprx
 
 #### Credits
 * CODENAME: SC4RLXNE TEAM (You already know)
