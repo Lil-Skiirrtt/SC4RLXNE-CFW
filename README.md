@@ -5,9 +5,9 @@
   **FIXES:**
   * imagefont.bin was broken
   **UPDATES:**
-    * Xaï Plugin Updated
-    **NOTE**
-      * Sorry for being in late
+  * Xaï Plugin Updated
+  **NOTE**
+  * Sorry for being in late
   ### BETA 1
   * Cobra updated from 8.1 to 8.5
   * Custom XMB lines
