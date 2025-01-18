@@ -2,7 +2,7 @@
 ### Based on Rebug 4.84.2 D-REX
 ## Whats New ?
   ### V1
-  #### FIXES:**
+  #### FIXES:
   * imagefont.bin was broken
   #### UPDATES:
   * Xaï Plugin Updated
