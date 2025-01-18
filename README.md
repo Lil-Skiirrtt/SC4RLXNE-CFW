@@ -2,11 +2,11 @@
 ### Based on Rebug 4.84.2 D-REX
 ## Whats New ?
   ### V1
-  **FIXES:**
+  #### FIXES:**
   * imagefont.bin was broken
-  **UPDATES:**
+  #### UPDATES:
   * Xaï Plugin Updated
-  **NOTE**
+  #### NOTE
   * Sorry for being in late
   ### BETA 1
   * Cobra updated from 8.1 to 8.5
