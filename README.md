@@ -2,7 +2,7 @@
 ### Based on Rebug 4.84.2 D-REX
 ## Whats New ?
 
-<p align="center">
+<p
   <img src="https://img.shields.io/badge/STATUS-CANCELED-red?style=for-the-badge" alt="CANCELED" width="480" />
 </p>
 
