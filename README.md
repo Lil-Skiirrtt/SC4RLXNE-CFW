@@ -1,6 +1,12 @@
 # SC4RLXNE-CFW
 ### Based on Rebug 4.84.2 D-REX
 ## Whats New ?
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-CANCELED-red?style=for-the-badge" alt="CANCELED" width="480" />
+</p>
+
+
   ### V1
   #### FIXES:
   * imagefont.bin was broken
