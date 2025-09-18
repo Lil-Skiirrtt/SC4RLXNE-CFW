@@ -2,12 +2,17 @@
 ### Based on Rebug 4.84.2 D-REX
 ## Whats New ?
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-CANCELED-red?style=for-the-badge" alt="CANCELED" width="480" />
-</p>
-
-
-
+ ### V2
+  #### FIXES:
+  Graphical bugs on XMB ingame
+    #### UPDATES:
+  * Xaï Plugin Updated
+  * Some visual improvement
+ #### REMOVED:
+ * NLB easter egg
+#### KNOWN BUG:
+  * No PSN balls appears on PSN content into package manager (Same as every previous version)
+  * libaudioswap don't work
   ### V1
   #### FIXES:
   * imagefont.bin was broken
