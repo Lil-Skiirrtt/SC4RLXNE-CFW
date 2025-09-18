@@ -1,5 +1,14 @@
 # SC4RLXNE-CFW
 ### Based on Rebug 4.84.2 D-REX
+#### Tested on
+* CECHL
+* CECHH
+* CECHK
+* CECH2004A
+* CECH2004B
+* CECH2104A
+* CECH-2504A
+* CECH-2504B
 ## Whats New ?
 
  ### V2
