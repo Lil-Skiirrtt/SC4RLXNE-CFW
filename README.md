@@ -12,16 +12,19 @@
 ## Whats New ?
 
  ### V2
-  #### FIXES:
-  Graphical bugs on XMB ingame
-    #### UPDATES:
+#### UPDATES:
   * Xaï Plugin Updated
   * Some visual improvement
+  
  #### REMOVED:
  * NLB easter egg
+ 
 #### KNOWN BUG:
   * No PSN balls appears on PSN content into package manager (Same as every previous version)
   * libaudioswap don't work
+  * Non compatible with CCAPI
+  * * bugs with webman mod (will be fixed soom  in the 2.1)
+      
   ### V1 (for devs)
   #### FIXES:
   * imagefont.bin was broken
