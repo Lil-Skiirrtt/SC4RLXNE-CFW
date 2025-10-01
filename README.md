@@ -25,7 +25,7 @@
   * Non compatible with CCAPI
   * * bugs with webman mod (will be fixed soom  in the 2.1)
       
-  ### V1 (for devs)
+  ### ESR V1 (Reccomended for devs)
   #### FIXES:
   * imagefont.bin was broken
   #### UPDATES:
