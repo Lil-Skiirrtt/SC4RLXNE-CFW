@@ -9,8 +9,6 @@
 * CECH-2104A
 * CECH-2504A
 * CECH-2504B
-  
-# Whats New ?
 
 # Retail
 
