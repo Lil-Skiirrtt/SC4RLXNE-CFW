@@ -11,6 +11,8 @@
 * CECH-2504B
 ## Whats New ?
 
+# Retail
+
  ### V2
 #### UPDATES:
   * Xaï Plugin Updated
@@ -23,26 +25,31 @@
   * No PSN balls appears on PSN content into package manager (Same as every previous version)
   * libaudioswap don't work
   * Non compatible with CCAPI
-  * * bugs with webman mod (will be fixed soom  in the 2.1)
-      
+  * bugs with webman mod (will be fixed soom  in the 2.1)
+   
+   ### BETA 1
+   #### UPDATES
+   * Cobra updated from 8.1 to 8.5
+   * Custom XMB lines
+   * Perma Spoof target ID
+   * Integrated Mysis Xai Plugin
+   * Port of 4.87+ PSN connexion system
+   * Voice chat background set to dark mode
+   * Purple XMB
+   * Removed Useless XMB Icons
+   * Custom XMB_plugin.sprx
+
+   # ESR
+   
   ### ESR V1 (Recommended for devs)
   #### FIXES:
   * imagefont.bin was broken
   #### UPDATES:
   * Xaï Plugin Updated
 
-  ### BETA 1
-  * Cobra updated from 8.1 to 8.5
-  * Custom XMB lines
-  * Perma Spoof target ID
-  * Integrated Mysis Xai Plugin
-  * Port of 4.87+ PSN connexion system
-  * Voice chat background set to dark mode
-  * Purple XMB
-  * Removed Useless XMB Icons
-  * Custom XMB_plugin.sprx
+ 
 
-#### Credits
+# Credits
 * CODENAME: SC4RLXNE TEAM (You already know)
 * CODENAME REBUG TEAM (Base)
 * Devil303 (???)
