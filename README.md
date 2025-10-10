@@ -30,7 +30,6 @@
    #### UPDATES
    * Cobra updated from 8.1 to 8.5
    * Custom XMB lines
-   * Perma Spoof target ID
    * Integrated Mysis Xai Plugin
    * Port of 4.87+ PSN connexion system
    * Voice chat background set to dark mode
