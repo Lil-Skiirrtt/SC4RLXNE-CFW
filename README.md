@@ -12,6 +12,15 @@
 
 # Retail
 
+ ### V2.1
+#### FIXES:
+  * bugs with webman mod are fixed
+ 
+#### KNOWN BUG:
+  * No PSN balls appears on PSN content into package manager (Same as every previous version)
+  * libaudioswap don't work
+  * Non compatible with CCAPI
+
  ### V2
 #### UPDATES:
   * Xaï Plugin Updated
