@@ -1,9 +1,12 @@
 # SC4RLXNE-CFW
 ### A Rebug 4.84 resurection
 #### Tested on
+###### fat:
 * CECHL
 * CECHH
 * CECHK
+
+###### slim:
 * CECH-2004A
 * CECH-2004B
 * CECH-2104A
