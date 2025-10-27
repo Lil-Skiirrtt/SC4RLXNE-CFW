@@ -13,6 +13,21 @@
 * CECH-2504A
 * CECH-2504B
 
+# READ
+
+## Advice of installation
+* 1. Dump your NOR/NAND memory (keep you dump safe)
+* 2. Flash your NVRAM
+* 3. Dump your EID Root Key
+* 4. Enable QA flag and convert to DEX
+* 5. Install the CFW
+* 6. Keep your EID Root Key safe
+
+
+## FAQ
+Q: What's the difference between Retail and ESR?
+    A: Retail is a version that follows the development step by step following news discovery but can have some bugs that I encourage you to report. ESR is a version that is fully stable and evolving by following bugs reports.
+
 # Retail
 
  ### V2.1
