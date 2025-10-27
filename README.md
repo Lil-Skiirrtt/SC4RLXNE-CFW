@@ -25,8 +25,8 @@
 
 
 ## FAQ
-Q: What's the difference between Retail and ESR?
-    A: Retail is a version that follows the development step by step following news discovery but can have some bugs that I encourage you to report. ESR is a version that is fully stable and evolving by following bugs reports.
+**Q:** What's the difference between Retail and ESR?
+    **A:** Retail is a version that follows the development step by step following news discovery but can have some bugs that I encourage you to report. ESR is a version that is fully stable and evolving by following bugs reports.
 
 # Retail
 
