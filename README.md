@@ -5,7 +5,7 @@
 | Console Type | Model Examples | Status |
 | :--- | :--- | :--- |
 | **FAT** | CECHL, CECHH, CECHK | ✅ Verified |
-| **SLIM** | CECH-2004A, CECH-2504B | ✅ Verified |
+| **SLIM** | CECH-2004A,CECH-2004B, CECH 2104A,CECH-2504A, CECH-2504B | ✅ Verified |
 
 
 ## Summary 
