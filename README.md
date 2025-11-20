@@ -13,22 +13,8 @@
     * [1.1 Advice of installation](## Advice of installation)
 * [2. Question answer](## Question answer)
 * [3. Credits](## Credits)
+* [4. Terms Of Use](## Credits)
 ---
-
-## 1. How to install
-...
-
-### 1.1 Advice of installation
-...
-
-## 2. Question answer
-...
-
-### 3 Credits 
-...
-
-### 4. Therms Of Use
-...
 
 
 ## How to install 
