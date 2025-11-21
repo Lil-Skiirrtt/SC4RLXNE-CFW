@@ -8,13 +8,7 @@
 | **SLIM** | CECH-2004A,CECH-2004B, CECH 2104A,CECH-2504A, CECH-2504B | ✅ Verified |
 
 
-## Summary 
-* [1. How to install](## How to install)
-    * [1.1 Advice of installation](## Advice of installation)
-* [2. Question answer](## Question answer)
-* [3. Credits](## Credits)
-* [4. Terms Of Use](## Credits)
----
+-----
 
 
 ## How to install 
