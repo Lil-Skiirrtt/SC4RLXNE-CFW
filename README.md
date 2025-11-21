@@ -15,9 +15,9 @@
 
 <p>
     <ul>
-        <li><a href="#how-to-install">GUIDE D'INSTALLATION</a></li>
-        <li><a href="#advice-of-installation">⚠️ Advice before instalation</a></li>
-        <li><a href="#question-answer">❓ Frequently asked questions</a></li>
+        <li><a href="#how-to-install">Installation guide</a></li>
+        <li><a href="#advice-of-installation"> Advice before instalation</a></li>
+        <li><a href="#question-answer"> Frequently asked questions</a></li>
         <li><a href="#credits">Credits</a></li>
     </ul>
 </p>
