@@ -9,15 +9,20 @@
 
 
 -----
-> ### [PRÉSENTATION DU CFW](#sc4rlxne-cfw)
->
-> ### [MODE D'INSTALLATION](#how-to-install)
->
-> ### [CONSEILS AVANT/APRÈS INSTALLATION](#advice-of-installation)
->
-> ### [QUESTIONS FRÉQUENTES (FAQ)](#question-answer)
->
-> ### [CRÉDITS & REMERCIEMENTS](#credits)
+<details>
+<summary><h3>Cliquez ici pour la Table des Matières Détaillée 🔽</h3></summary>
+
+<p>
+    <ul>
+        <li><a href="#sc4rlxne-cfw">🚀 PRÉSENTATION DU CFW & MODÈLES TESTÉS</a></li>
+        <li><a href="#how-to-install">🛠️ GUIDE D'INSTALLATION</a></li>
+        <li><a href="#advice-of-installation">⚠️ CONSEILS IMPORTANTS & PRÉCAUTIONS</a></li>
+        <li><a href="#question-answer">❓ QUESTIONS FRÉQUENTES (FAQ)</a></li>
+        <li><a href="#credits">🌟 CRÉDITS & REMERCIEMENTS</a></li>
+    </ul>
+</p>
+</details>
+
 
 
 ## How to install 
