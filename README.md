@@ -9,8 +9,7 @@
 
 
 -----
-<details>
-<summary><h3>Cliquez ici pour la Table des Matières Détaillée 🔽</h3></summary>
+
 
 <p>
     <ul>
