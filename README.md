@@ -2,10 +2,15 @@
 ### A Rebug 4.84 resurection
 
 <div style="
-    background-color: #FFF3CD; 
+    /* Dégradé de couleur pour l'effet "coulé" */
+    background: linear-gradient(to bottom, #FFFFE0, #FFF3CD); 
+    
     color: #856404; 
     border: 1px solid #FFE69A; 
     border-radius: 10px; 
+    /* Ombre subtile pour l'effet 3D */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+
     padding: 15px; 
     margin: 20px 0; 
     font-family: Arial, sans-serif;
@@ -14,6 +19,12 @@
     <h3 style="margin-top: 0; font-weight: bold;">⚠️ IMPORTANT WARNING ⚠️</h3>
     <p style="margin-bottom: 0;">
         The **SC4RLXNE-CFW** team declines all responsibility for any damage, loss of data, or console malfunction resulting from the installation or use of this firmware.
+    </p>
+    <p style="margin-top: 5px; font-style: italic;">
+        Use of this software is entirely at your own risk.
+    </p>
+</div>
+ the installation or use of this firmware.
     </p>
     <p style="margin-top: 5px; font-style: italic;">
         Use of this software is entirely at your own risk.
