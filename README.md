@@ -10,6 +10,8 @@
 
 -----
 
+<details>
+<summary><h3>Summary (click to expand)</h3></summary>
 
 <p>
     <ul>
