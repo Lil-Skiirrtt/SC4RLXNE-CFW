@@ -9,6 +9,15 @@
 
 
 -----
+> ### [PRÉSENTATION DU CFW](#sc4rlxne-cfw)
+>
+> ### [MODE D'INSTALLATION](#how-to-install)
+>
+> ### [CONSEILS AVANT/APRÈS INSTALLATION](#advice-of-installation)
+>
+> ### [QUESTIONS FRÉQUENTES (FAQ)](#question-answer)
+>
+> ### [CRÉDITS & REMERCIEMENTS](#credits)
 
 
 ## How to install 
