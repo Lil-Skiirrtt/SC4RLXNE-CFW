@@ -11,20 +11,6 @@
 
 -----
 
-<details>
-<summary><h3>Summary (click to expand)</h3></summary>
-
-<p>
-    <ul>
-        <li><a href="#how-to-install">Installation guide</a></li>
-        <li><a href="#advice-of-installation"> Advice before instalation</a></li>
-        <li><a href="#question-answer"> Frequently asked questions</a></li>
-        <li><a href="#credits">Credits</a></li>
-    </ul>
-</p>
-</details>
-
-
 
 ## How to install 
 Download our downgrader (still in dev)
