@@ -8,6 +8,12 @@
 | **FAT** | CECHL, CECHH, CECHK | ✅ Verified |
 | **SLIM** | CECH-2004A,CECH-2004B, CECH 2104A,CECH-2504A, CECH-2504B | ✅ Verified |
 
+-----
+
+
+ # REBUG VS SC4RLXNE
+ <img width="1917" height="537" alt="Capture d&#39;écran 2025-12-03 153805" src="https://github.com/user-attachments/assets/889f52c3-bbfb-4719-b0bb-92765c3eea0e" />
+
 
 -----
 
@@ -32,12 +38,8 @@ if the downrgrader isn't released yet:
 
 
 ## Question answer
-**Q:** What's the difference between Retail and ESR?
-    **A:** Retail is a version that follows the development step by step following news discovery but can have some bugs that I encourage you to report. ESR is a version that is fully stable and evolving by following bugs reports.
-
- # REBUG VS SC4RLXNE
- <img width="1917" height="537" alt="Capture d&#39;écran 2025-12-03 153805" src="https://github.com/user-attachments/assets/889f52c3-bbfb-4719-b0bb-92765c3eea0e" />
-
+- **Q:** What's the difference between Retail and ESR?
+    - **A:** Retail is a version that follows the development step by step following news discovery but can have some bugs that I encourage you to report. ESR is a version that is fully stable and evolving by following bugs reports.
 
 # Credits
 * CODENAME: SC4RLXNE TEAM (You already know)
