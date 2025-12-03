@@ -35,7 +35,9 @@ if the downrgrader isn't released yet:
 **Q:** What's the difference between Retail and ESR?
     **A:** Retail is a version that follows the development step by step following news discovery but can have some bugs that I encourage you to report. ESR is a version that is fully stable and evolving by following bugs reports.
 
- 
+ # REBUG VS SC4RLXNE
+ <img width="1917" height="537" alt="Capture d&#39;écran 2025-12-03 153805" src="https://github.com/user-attachments/assets/889f52c3-bbfb-4719-b0bb-92765c3eea0e" />
+
 
 # Credits
 * CODENAME: SC4RLXNE TEAM (You already know)
