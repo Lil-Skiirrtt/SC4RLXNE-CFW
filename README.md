@@ -10,14 +10,6 @@
 
 -----
 
-
- # REBUG VS SC4RLXNE
- <img width="1917" height="537" alt="Capture d&#39;écran 2025-12-03 153805" src="https://github.com/user-attachments/assets/889f52c3-bbfb-4719-b0bb-92765c3eea0e" />
-
-
------
-
-
 ## How to install 
 Download our downgrader (still in dev)
 Put a USB drive formated in FAT32
