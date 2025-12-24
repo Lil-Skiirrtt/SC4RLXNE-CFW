@@ -42,7 +42,7 @@ if the downrgrader isn't released yet:
 # Credits
 * CODENAME: SC4RLXNE TEAM (You already know)
 * CODENAME REBUG TEAM (Base)
-* Devil303 (???)
+* Devil303 (Connexion folder base)
 * Evilnat (Cobra 8.5)
 * Mysis (Xai Plugin)
 * Modded_Error (Logo)
