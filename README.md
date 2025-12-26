@@ -10,7 +10,7 @@
 
 ⚠️WARNING: 
  * Some SLIM models aren't compatible with this mod please make sure that your console can be jailbroken
- * DON'T TRY TO INSTALL THIS CFW ON A DECR, YOU4LL BRICK YOUR CONSOLE
+ * DON'T TRY TO INSTALL THIS CFW ON A DECR, YOU WILL BRICK YOUR CONSOLE
 ℹ️ INFO:
  * Almost DECH/Debugging Station (Fat/Slim) running OFW DEX are compatible, you can easily install this version, the compatibility system is the same as the CECH models
 -----
