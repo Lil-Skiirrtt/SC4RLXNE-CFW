@@ -10,13 +10,13 @@
 
 -----
 
-## How to install 
+<!-- ## How to install 
 Download our downgrader (still in dev)
 Put a USB drive formated in FAT32
 
 Follow the instructions in the order of numérotation 
 
-if the downrgrader isn't released yet:
+if the downrgrader isn't released yet: -->
 * download and install the latest version of evilnat PEX
 -> Custom Firmware Tools -> QA -> enable QA flag (normal or advanced it doesn't matter) -> Go back -> Dump tools -> Dump ERK and wait for the 2 beep and the confirmation message (must be successfull, if not restart your PS3 and try again) -> Go back -> Cex2Dex -> Convert to DEX (your console will automatically restart) then install SC4RLXNE CFW
 
