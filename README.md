@@ -8,6 +8,11 @@
 | **FAT** | CECHG, CECHL, CECHH, CECHK | ✅ Verified |
 | **SLIM** | CECH-2004A,CECH-2004B, CECH 2104A,CECH-2504A, CECH-2504B | ✅ Verified |
 
+⚠️WARNING: 
+ * Some SLIM models aren't compatible with this mod please make sure that your console can be jailbroken
+ * DON'T TRY TO INSTALL THIS CFW ON A DECR, YOU4LL BRICK YOUR CONSOLE
+ℹ️ INFO:
+ * Almost DECH/Debugging Station (Fat/Slim) running OFW DEX are compatible, you can easily install this version, the compatibility system is the same as the CECH models
 -----
  ## How to install 
 
