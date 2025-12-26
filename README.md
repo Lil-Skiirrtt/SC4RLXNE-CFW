@@ -9,9 +9,9 @@
 | **SLIM** | CECH-2004A,CECH-2004B, CECH 2104A,CECH-2504A, CECH-2504B | ✅ Verified |
 
 -----
+ ## How to install 
 
-<!-- ## How to install 
-Download our downgrader (still in dev)
+<!-- Download our downgrader (still in dev)
 Put a USB drive formated in FAT32
 
 Follow the instructions in the order of numérotation 
