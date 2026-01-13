@@ -51,4 +51,4 @@ if the downrgrader isn't released yet: -->
 * Devil303 (Connexion folder base, Extended Download Plugin)
 * Evilnat (Cobra 8.5)
 * Mysis (Xai Plugin)
-* Modded_Error (Logo)(Modified by me
+* Modded_Error (Logo)(Modified by me)
