@@ -44,6 +44,8 @@ if the downrgrader isn't released yet: -->
 
 ## Community's love messages
 <img width="616" height="311" alt="image-8" src="https://github.com/user-attachments/assets/a0fb9a01-25fb-46b5-90a4-01eff50fa67c" />
+<img width="365" height="94" alt="image" src="https://github.com/user-attachments/assets/8e463f8c-2c97-4a1b-801c-a9fa7171dd6c" />
+
 
 # Credits
 * CODENAME: SC4RLXNE TEAM (You already know)
@@ -52,3 +54,4 @@ if the downrgrader isn't released yet: -->
 * Evilnat (Cobra 8.5)
 * Mysis (Xai Plugin)
 * Modded_Error (Logo)(Modified by me)
+* Luan Tzlzs (Pre-0.90 waves
