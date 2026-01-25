@@ -54,4 +54,4 @@ if the downrgrader isn't released yet: -->
 * Evilnat (Cobra 8.5)
 * Mysis (Xai Plugin)
 * Modded_Error (Logo)(Modified by me)
-* Luan Tzlzs (Pre-0.90 waves
+* Luan Teles (Pre-0.90 waves)
